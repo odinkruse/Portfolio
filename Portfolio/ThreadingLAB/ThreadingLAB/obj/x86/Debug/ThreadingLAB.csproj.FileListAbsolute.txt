@@ -1,0 +1,5 @@
+C:\Users\Odin\Documents\Visual Studio 2010\Projects\OS\ThreadingLAB\ThreadingLAB\bin\Debug\ThreadingLAB.exe
+C:\Users\Odin\Documents\Visual Studio 2010\Projects\OS\ThreadingLAB\ThreadingLAB\bin\Debug\ThreadingLAB.pdb
+C:\Users\Odin\Documents\Visual Studio 2010\Projects\OS\ThreadingLAB\ThreadingLAB\obj\x86\Debug\ThreadingLAB.csprojResolveAssemblyReference.cache
+C:\Users\Odin\Documents\Visual Studio 2010\Projects\OS\ThreadingLAB\ThreadingLAB\obj\x86\Debug\ThreadingLAB.exe
+C:\Users\Odin\Documents\Visual Studio 2010\Projects\OS\ThreadingLAB\ThreadingLAB\obj\x86\Debug\ThreadingLAB.pdb
